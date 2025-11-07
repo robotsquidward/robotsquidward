@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [AJ](https://ajkueterman.com/)! Check out my blog & stuff at [ajkueterman.com](https://ajkueterman.com)
+I'm [AJ](https://ajkueterman.com/about)! Check out my blog & stuff at [ajkueterman.com](https://ajkueterman.com)
 
 #### Latest
 * [Unclack](https://unclack.app) is my tiny but mighty macOS utility that mutes your microphone while you're typing!
