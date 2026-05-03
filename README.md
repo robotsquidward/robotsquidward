@@ -3,6 +3,7 @@
 I'm [AJ](https://ajkueterman.com/about)! Check out my blog & stuff at [ajkueterman.com](https://ajkueterman.com)
 
 #### Latest
+* [LitraSwitch](https://litraswitch.app/) is a basic UI for controlling Logitech Litra key lights.
 * [Unclack](https://unclack.app) is my tiny but mighty macOS utility that mutes your microphone while you're typing!
 * [OctoNote](https://apps.apple.com/us/app/octonote/id1433164731) is my GitHub-powered markdown note-taking app for developers.
 * [fuzZzy](https://apps.apple.com/us/app/fuzzzy-white-noise-for-sleep/id1336284372) is my super-simple sound machine for peaceful sleep.
